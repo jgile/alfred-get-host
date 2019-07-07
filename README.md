@@ -1,7 +1,7 @@
 # Get Website Host for Alfred
 
 ## Install
-**[Download](https://github.com/jgile/alfred-get-host/releases)**
+**[Download](https://github.com/jgile/alfred-get-host/releases/latest)**
  most recent release to install.
 
 ## Usage
