@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string></string>
+	<string>com.gethost.jgile</string>
+	<key>category</key>
+	<string>Tools</string>
 	<key>connections</key>
 	<dict>
 		<key>1A4D4744-9D10-48FA-B96F-73C3DA594FC6</key>
@@ -95,13 +97,13 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string></string>
+	<string>John Gile</string>
 	<key>description</key>
-	<string>host</string>
+	<string>Get website host name.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Host</string>
+	<string>Get Host</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -247,7 +249,7 @@ fi</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>Find the name of a website or ip address host.</string>
 	<key>uidata</key>
 	<dict>
 		<key>1A4D4744-9D10-48FA-B96F-73C3DA594FC6</key>
@@ -293,6 +295,10 @@ fi</string>
 			<integer>90</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.0</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
